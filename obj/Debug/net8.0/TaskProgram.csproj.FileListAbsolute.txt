@@ -38,3 +38,4 @@ C:\Users\wesle\OneDrive\Área de Trabalho\Backup Automático\Minhas Coisas\Progr
 C:\Users\wesle\OneDrive\Área de Trabalho\Backup Automático\Minhas Coisas\Programação\TaskProgram\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\wesle\OneDrive\Área de Trabalho\Backup Automático\Minhas Coisas\Programação\TaskProgram\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\wesle\OneDrive\Área de Trabalho\Backup Automático\Minhas Coisas\Programação\TaskProgram\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\Backup Automático\Minhas Coisas\Programação\TaskProgram\obj\Debug\net8.0\TaskProgram.sourcelink.json
